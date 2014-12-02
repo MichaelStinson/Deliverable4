@@ -73,9 +73,5 @@ public class ManipulateTester {
 			assertEquals(0, i % 2);
 		}    
     }
-    
-    /*public void testRemovePrimes () {
-    	Primes.isPrime(10);
-    }*/
 }
 
